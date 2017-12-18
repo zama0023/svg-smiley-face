@@ -10,7 +10,7 @@
 }
 
 .left-eyebrow {
-  transform: rotate(100deg);
+  transform: rotate(80deg);
   transform-origin: 100px 82px;
   transition: all .5s linear;
 }
